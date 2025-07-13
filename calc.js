@@ -1,4 +1,4 @@
-let calculation = document.querySelector('input')
+let calculation =document.querySelector('input');
 
 function dispnum(num){
     calculation.value+=num;
